@@ -1,2 +1,2 @@
 # TestRepo
-Test Repo
+Test Repository for test android source management
